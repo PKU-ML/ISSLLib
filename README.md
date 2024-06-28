@@ -1,6 +1,6 @@
 # Interpretable Self-Supervised Learning Library（ISSLlib)
 
-A Interpretable Self-Supervised Learning Library. This repo collects the official implementations of works done by [Yisen Wang](https://yisenwang.github.io/) and his students.
+An Interpretable Self-Supervised Learning Library. This repo collects the official implementations of works done by [Yisen Wang](https://yisenwang.github.io/) and his students.
 
 
 This repository includes a PyTorch implementation of the NeurIPS 2023 paper [Identifiable Contrastive Learning with Automatic Feature Importance Discovery](https://arxiv.org/abs/2310.18904) 
